@@ -32,4 +32,4 @@ A real-time chat application with WebSockets for seamless communication.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/madhan-raj-07147019a)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/madhancodes)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=internet-explorer)](https://yourportfolio.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=internet-explorer)](https://yourportfolio.com) 
