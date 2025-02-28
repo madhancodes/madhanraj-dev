@@ -1,6 +1,3 @@
-# madhanraj-Portfolio
-Hi, I'm MadhanRaj 👨‍💻 | Exploring Tech, One Line at a Time 💻 | Crafting Code, Building Futures 🚀
-=======
 # 👋 Hi, I'm MadhanRaj!  
 
 🚀 Front-End & Blockchain Developer | JavaScript | React.js | Solidity | Smart Contracts  
